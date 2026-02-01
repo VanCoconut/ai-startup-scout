@@ -22,7 +22,7 @@ Questo progetto automatizza il processo di ricerca e catalogazione startup:
 
 ### Stack Tecnologico
 - **Runtime**: Google Apps Script (JavaScript ES6)
-- **AI**: Google Gemini 2.0 Flash (`gemini-2.0-flash-exp`)
+- **AI**: Google Gemini 2.0 Flash (`gemini-3-27b-it`)
 - **Storage**: Google Sheets
 - **APIs**: IP Geolocation API (ip-api.com)
 
