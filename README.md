@@ -53,13 +53,13 @@ Per una soluzione scalabile in produzione, il codice è già predisposto per int
 
 In Apps Script Editor → **Impostazioni Progetto** → **Proprietà Script**, aggiungi:
 ```
-CRUNCHBASE_API_KEY = "sk-proj-xxx"
+CRUNCHBASE_API_KEY = ""
 ```
 
 Oppure per API custom:
 ```
-ACCELERATOR_API_URL = "https://api.tuoservizio.com/accelerators"
-ACCELERATOR_API_KEY = "your_key"
+ACCELERATOR_API_URL = ""
+ACCELERATOR_API_KEY = ""
 ```
 
 Il sistema rileva automaticamente la presenza delle chiavi e passa alla fonte API, mantenendo la seed list come fallback.
